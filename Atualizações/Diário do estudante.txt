@@ -1,1 +1,7 @@
 Dia 03 (27/05/2022) - Terminei as aulas de iniciação ao git/gitHub e estou criando um repositório para controle do meu aprendizado.
+
+Dia 04 (30/05/2022) - Iniciando aulas de HTML/CSS.
+
+Dia 05 (31/05/2022) - Terminado aulas de HTML e CSS e iniciando o projeto de CSS Transitions
+
+Dia 06 (01/06/2022) - Vendo algumas partes do desafio de CSS Transitions e praticando as aulas.
