@@ -6,4 +6,8 @@ Dia 05 (31/05/2022) - Terminado aulas de HTML e CSS e iniciando o projeto de CSS
 
 Dia 06 (01/06/2022) - Vendo algumas partes do desafio de CSS Transitions e praticando as aulas.
 
-Dia 07, 08 e 09 (02/06, 03/06, 06/06) - Desenvolvendo e terminando o projeto de CSS. 
+Dia 07, 08 e 09 (02/06, 03/06, 06/06) - Desenvolvendo e terminando o projeto de CSS.
+
+Dia 10 a dia 15 (07/06 a 17/06) - Assistindo as aulas de JavaScript e realizando o desafio de código.
+
+Dia 16 (18/06) - Realizando desafio de projeto JavaScript
